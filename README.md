@@ -18,4 +18,13 @@
 <p>Sebastião é um detetive de meia-idade contratado para investigar o caso. É o protagonista do jogo, ou seja, com quem o jogador irá ter sua gameplay. Seus olhos são verdes e seu olhar é cansado, seu cabeo é castano com alguns fios grisalhos, sua barba está por fazer e sua pele é branca bronzeada.</p>
 
 #### Arnaldo Santoro
-<p>F</p>
+<p>Foi o fundador e primeiro dono do hotel Avenida Palace. Era casado com Lucrécia e tinha quatro filhas com ela: Samantha, Vania, Sara e Morgana. Mesmo casado, mantinha relações com outras mulheres e frequentemente gastava seu dinheiro com festas e meretrizes. Mesmo nutrindo uma desafeição por sua esposa, amava as filhas mais do que tudo no mundo, frequentemente as mimando. Tais hábitos o levaram a gastar mais do que podia com coisas supérfluas e a falir as finanças do hotel, consequentemente. Após o assassinato de suas filhas, foi acusado e condenado pelo crime, morrendo na cadeia. Tem cabelos ruivos e pele bronzeada. </p>
+
+#### Lucrécia Santoro
+<p>Esposa de Arnaldo e mãe das meninas. Era armagurada pelo marido infiel e pela semelhança inegável com a qual suas filhas tinham com o progenitor. Tem uma aparência cansada e triste, com cabelos castanhos milimetricamente ajeitados.</p>
+
+#### Samantha Santoro
+<p>É a mais velha das quatro filha, tem 14 anos e cabelos ruivos cacheados.</p>
+
+#### Vania Santoro
+<p>É a segunda filha e tem 11 anos</p>
