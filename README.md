@@ -36,7 +36,11 @@
 <p>É a fillha mais nova, com 4 anos de idade. Tem cabelo ondulado e ruivo.</p>
 
 ### Cenários
-
 <p>Os cenários são inspirados nos cômodos do verdadeiro hotel Avenida Palace em Santos. Os ambientes principais são: a recepção, os corredores do primeiro e segundo andar e a sala de jogos.</p>
-<p>A ambientação tem oa mobília inspirada nos anos 1940 com marcas de abandono </p>
+<p>A ambientação tem oa mobília inspirada nos anos 1940 com marcas de abandono para o passado. Já para o presente, os tons são frios e fechados para representar um ambiente sufocante. </p>
+<p>A paleta de cores do passado é focada em tons quentes para sinalizar a nostalgia de um tempo perdido e as pistas do puzzle são demonstradas em pontos de luz amarelos.</p>
+
+### Elementos do jogo
+<P>A tela inicial do jogo tem como imagem a fachada do hotel desenhada em pixel art, assim como o vitral.</P>
+<p>O jogo tem o formato 2.5D, onde o personagem principal é em pixel art e se move através de sprites enquanto o cenário é 3D. Para os elementos 3D, a Asset Store da Unity foi utilizada, já o protagonista do jogo é autoral. Para a criação das pixel arts, foi utilizada a plataforma Pixilart.</p>
 
