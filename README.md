@@ -44,3 +44,53 @@
 <P>A tela inicial do jogo tem como imagem a fachada do hotel desenhada em pixel art, assim como o vitral.</P>
 <p>O jogo tem o formato 2.5D, onde o personagem principal é em pixel art e se move através de sprites enquanto o cenário é 3D. Para os elementos 3D, a Asset Store da Unity foi utilizada, já o protagonista do jogo é autoral. Para a criação das pixel arts, foi utilizada a plataforma Pixilart.</p>
 
+### Objetivo do jogo
+<P>O objetivo do jogo é achar os cinco pedaços que faltam para terminar o vitral e descobrir a verdade sobre o assassinato das irmãs Santoro. Quando o jogador completa o vitral, ele volta ao presente e zera o jogo. </P>
+
+### Assets utilizados
+<P>
+Cidade
+https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772
+
+Uma parte de uma cidade à noite.
+</P>
+<P>
+Portas de madeira
+https://assetstore.unity.com/packages/3d/props/interior/free-wood-door-pack-280509
+
+Portas interativas de alta qualidade.
+</P>
+<P>Lanterna
+https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
+
+Uma lanterna padrão com texturas baseadas em PBR (o material tem propriedades visuais que os resultados realistas sejam possíveis em todas as condições de iluminação).
+
+</P>
+<P>Lanterna
+https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
+
+Uma lanterna padrão com texturas baseadas em PBR (o material tem propriedades visuais que os resultados realistas sejam possíveis em todas as condições de iluminação).
+
+</P>
+<P>Lâmpadas de rua
+https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-2-260395
+
+</P>
+<P>Chave enferrujada
+https://assetstore.unity.com/packages/3d/props/rust-key-167590
+</P>
+<P>Porta de ferro
+https://assetstore.unity.com/packages/3d/props/metal-door-5397
+
+</P>
+<P>Keypad, chave de acesso
+https://assetstore.unity.com/packages/3d/props/electronics/keypad-free-262151
+</P>
+<P>Decoração
+https://assetstore.unity.com/packages/3d/environments/fantasy/mega-fantasy-props-pack-87811
+</P>
+<P>Chave e fechadura
+https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
+
+</P>
+
