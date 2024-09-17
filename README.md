@@ -94,3 +94,16 @@ https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
 
 </P>
 
+### Obras que inspiraram o jogo
+#### O Farol (2019) - filme
+<p>A ideia base do jogo surgiu a partir desse filme. A partir desse ponto, a história do jogo foi criada usando o mistério do filme e a paleta de cores como inspiração. Na trama, dois marinheiros lutam para manter sua sanidade mental enquanto cuidam de um farol misterioso. </p>
+
+#### Ghostcase - jogo
+<p>A mecânica de puzzles e parte da história do jogo foi insipirada na mecânica deste jogo. Na história, o jogador também controla um detetive tentando solucionar o assassinato de dois irmãos. Por mais que a história de Ghostcase tenha estas semelhanças com Fragmentos de Santoro, as semelhanças acabam por aí.</p>
+
+#### Morto (O Terno) - música
+<p>A música serviu de inspiração para a ambientação e história. A música conta a história de uma pessoa morta há tempos, mas que não tem conhecimento da própria morte.</p>
+
+#### Hotel Avenida Palace de Santos - local
+<p>O hotel que inspirou a arte do jogo se trata de um hotel real que realmente foi abandonado em 2019. </p>
+
