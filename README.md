@@ -27,4 +27,16 @@
 <p>É a mais velha das quatro filha, tem 14 anos e cabelos ruivos cacheados.</p>
 
 #### Vania Santoro
-<p>É a segunda filha e tem 11 anos</p>
+<p>É a segunda filha e tem 11 anos. Seus cabelos são ruivos e tem franja.</p>
+
+#### Sara Santoro
+<p>É a terceira filha e tem 9 anos. Tem cabelos ruic=vos e ondulados. </p>
+
+#### Morgana Santoro
+<p>É a fillha mais nova, com 4 anos de idade. Tem cabelo ondulado e ruivo.</p>
+
+### Cenários
+
+<p>Os cenários são inspirados nos cômodos do verdadeiro hotel Avenida Palace em Santos. Os ambientes principais são: a recepção, os corredores do primeiro e segundo andar e a sala de jogos.</p>
+<p>A ambientação tem oa mobília inspirada nos anos 1940 com marcas de abandono </p>
+
