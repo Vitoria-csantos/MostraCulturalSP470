@@ -40,10 +40,14 @@
 <p>A ambientação tem oa mobília inspirada nos anos 1940 com marcas de abandono para o passado. Já para o presente, os tons são frios e fechados para representar um ambiente sufocante. </p>
 <p>A paleta de cores do passado é focada em tons quentes para sinalizar a nostalgia de um tempo perdido e as pistas do puzzle são demonstradas em pontos de luz amarelos.</p>
 
+![image](https://github.com/user-attachments/assets/b4fc80e8-f303-4e16-8eb5-69dee136c07a)
 
 ![image](https://github.com/user-attachments/assets/428b7e31-ffcc-4482-b9e3-e10e39471f19)
 ![image](https://github.com/user-attachments/assets/d7c06c4e-a48e-489d-af32-5fb6db9d9cb6)
 ![image](https://github.com/user-attachments/assets/dc223284-89c8-4ce0-8c7c-c5fd18c0f337)
+![image](https://github.com/user-attachments/assets/bb69a7a4-bdd9-4605-91bc-e17b37c2d39e)
+
+
 
 
 
