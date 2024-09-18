@@ -109,4 +109,9 @@ https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
 
 ### A programação do jogo
 #### Posição da câmera
-<p></p>
+<p> A posição da câmera foi determinada a partir do método transform.position, que altera os eixos x, y e z, determinando o ponto inicial da câmera.</p>
+
+#### Movimentação de personagem
+<p>Os personagens se movem a partir do uso de condicionais no C#, que determinam a ação a ser executada se uma tecla em específica for usada.</p>
+
+#### 
