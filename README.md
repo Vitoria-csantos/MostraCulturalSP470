@@ -107,4 +107,6 @@ https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
 #### Hotel Avenida Palace de Santos - local
 <p>O hotel que inspirou a arte do jogo se trata de um hotel real que realmente foi abandonado em 2019. </p>
 
-### 
+### A programação do jogo
+#### Posição da câmera
+<p></p>
