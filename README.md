@@ -54,6 +54,8 @@
 
 
 
+
+
 ### Elementos do jogo
 <P>A tela inicial do jogo tem como imagem a fachada do hotel desenhada em pixel art, assim como o vitral.</P>
 <p>O jogo tem o formato 2.5D, onde o personagem principal é em pixel art e se move através de sprites enquanto o cenário é 3D. Para os elementos 3D, a Asset Store da Unity foi utilizada, já o protagonista do jogo é autoral. Para a criação das pixel arts, foi utilizada a plataforma Pixilart.</p>
