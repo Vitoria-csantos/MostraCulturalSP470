@@ -40,14 +40,29 @@
 <p>A ambientação tem oa mobília inspirada nos anos 1940 com marcas de abandono para o passado. Já para o presente, os tons são frios e fechados para representar um ambiente sufocante. </p>
 <p>A paleta de cores do passado é focada em tons quentes para sinalizar a nostalgia de um tempo perdido e as pistas do puzzle são demonstradas em pontos de luz amarelos.</p>
 
+
+![image](https://github.com/user-attachments/assets/428b7e31-ffcc-4482-b9e3-e10e39471f19)
+![image](https://github.com/user-attachments/assets/d7c06c4e-a48e-489d-af32-5fb6db9d9cb6)
+![image](https://github.com/user-attachments/assets/dc223284-89c8-4ce0-8c7c-c5fd18c0f337)
+
+
+
+
+
+
 ### Elementos do jogo
 <P>A tela inicial do jogo tem como imagem a fachada do hotel desenhada em pixel art, assim como o vitral.</P>
 <p>O jogo tem o formato 2.5D, onde o personagem principal é em pixel art e se move através de sprites enquanto o cenário é 3D. Para os elementos 3D, a Asset Store da Unity foi utilizada, já o protagonista do jogo é autoral. Para a criação das pixel arts, foi utilizada a plataforma Pixilart.</p>
 
-![hotel](blob:https://web.whatsapp.com/086c903e-7e0b-4b31-945b-6e0fb3c8ee72)
+
+
+(![hotel-avenida-palace-pixilart (4)](https://github.com/user-attachments/assets/019d71d4-de5b-42f1-888f-85845a26284f)
+
 
 ### Objetivo do jogo
 <P>O objetivo do jogo é achar os cinco pedaços que faltam para terminar o vitral e descobrir a verdade sobre o assassinato das irmãs Santoro. Quando o jogador completa o vitral, ele volta ao presente e zera o jogo. </P>
+![vitral-pixilart](https://github.com/user-attachments/assets/f2d984ca-532b-4bd7-b733-18d0575a3a3e)
+
 
 ### Assets utilizados
 <P>
