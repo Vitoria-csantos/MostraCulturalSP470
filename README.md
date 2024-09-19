@@ -137,7 +137,7 @@ https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
 #### Movimentação de personagem
 <p>Os personagens se movem a partir do uso de condicionais no C#, que determinam a ação a ser executada se uma tecla em específica for usada.</p>
 
-####Mudança de fase
+#### Mudança de fase
 
 O player após chegar em um determinado local, será automaticamente "teletransportado" ao colidir com um determinado local, que é uma parede preta. 
 Podendo mudar entre fases.
