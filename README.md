@@ -47,6 +47,11 @@
 ![image](https://github.com/user-attachments/assets/dc223284-89c8-4ce0-8c7c-c5fd18c0f337)
 ![image](https://github.com/user-attachments/assets/bb69a7a4-bdd9-4605-91bc-e17b37c2d39e)
 
+<h4>Paleta de cores, no passado e presente</h4>
+
+![Presente](https://github.com/Vitoria-csantos/MostraCulturalSP470/blob/main/Paleta/Passado.png)
+![Passado](https://github.com/Vitoria-csantos/MostraCulturalSP470/blob/main/Paleta/Passado%20(1).png)
+
 
 
 
@@ -137,14 +142,11 @@ https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
 #### Movimentação de personagem
 <p>Os personagens se movem a partir do uso de condicionais no C#, que determinam a ação a ser executada se uma tecla em específica for usada.</p>
 
-#### Mudança de fase
+<h4> Mudança de fase </h4>
 
 O player após chegar em um determinado local, será automaticamente "teletransportado" ao colidir com um determinado local, que é uma parede preta. 
 Podendo mudar entre fases.
 
-### Vídeo do jogo
-
-
-
-### Link do Jogo 
-https://drive.google.com/drive/folders/1K8izghJBD59rN21DEldlup5WixYGAu51
+>[!Important]
+>- Vídeo do jogo:
+>- Link do Jogo no drive: https://drive.google.com/drive/folders/1K8izghJBD59rN21DEldlup5WixYGAu51
