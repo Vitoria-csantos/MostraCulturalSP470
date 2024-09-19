@@ -72,8 +72,8 @@
 
 ### Objetivo do jogo
 <P>O objetivo do jogo é achar os cinco pedaços que faltam para terminar o vitral e descobrir a verdade sobre o assassinato das irmãs Santoro. Quando o jogador completa o vitral, ele volta ao presente e zera o jogo. </P>
-![vitral-pixilart](https://github.com/user-attachments/assets/f2d984ca-532b-4bd7-b733-18d0575a3a3e)
 
+![vitral-pixilart](https://github.com/user-attachments/assets/f2d984ca-532b-4bd7-b733-18d0575a3a3e)
 
 ### Assets utilizados
 <P>
