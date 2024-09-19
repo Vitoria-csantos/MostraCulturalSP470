@@ -10,9 +10,9 @@ public class trocarecCorr : MonoBehaviour
 
     public string Corredor;
 
-    private void OnTriggerEnter(Collider collision)
+    private void OnTriggerEnter(Collider other)
     {
-        if (collision.CompareTag("Player"))
+        if (other.CompareTag("Player"))
         {
             SceneManager.LoadScene("a01preCorridor");
         }

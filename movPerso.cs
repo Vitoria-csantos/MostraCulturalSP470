@@ -44,18 +44,36 @@ public class movPerso : MonoBehaviour
 
         if (Input.GetKey(KeyCode.W) && Input.GetKey(KeyCode.A))
         {
-            m.x = 0.0001f;
+            m.x = 0.001f;
             m.z = 0.0001f;
             transform.Translate(m);
         }
 
         if (Input.GetKey(KeyCode.W) && Input.GetKey(KeyCode.E))
         {
-            m.x = 0.0001f;
-            m.z = 0.0001f;
+            m.x = 0.001f;
+            m.z = 0.001f;
             transform.Translate(m);
         }
 
+        m.Set(0, 0, 0);
+
+        if (transform.position.x >= 97.5)
+        {
+            transform.position = new Vector3(97.5f, transform.position.y, transform.position.z);
+        }
+        if (transform.position.x <= -97.5)
+        {
+            transform.position = new Vector3(-97.5f, transform.position.y, transform.position.z);
+        }
+        if (transform.position.z >= 57.7)
+        {
+            transform.position = new Vector3(transform.position.x, transform.position.y, 57.7f);
+        }
+        if (transform.position.z <= -57.7)
+        {
+            transform.position = new Vector3(transform.position.x, transform.position.y, -57.7f);
+        }
         m.Set(0, 0, 0);
     }
 }
