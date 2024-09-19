@@ -137,6 +137,11 @@ https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
 #### Movimentação de personagem
 <p>Os personagens se movem a partir do uso de condicionais no C#, que determinam a ação a ser executada se uma tecla em específica for usada.</p>
 
+####Mudança de fase
+
+O player após chegar em um determinado local, será automaticamente "teletransportado" ao colidir com um determinado local, que é uma parede preta. 
+Podendo mudar entre fases.
+
 ### Link do Jogo 
 https://drive.google.com/drive/folders/1K8izghJBD59rN21DEldlup5WixYGAu51
 
@@ -266,8 +271,7 @@ https://drive.google.com/drive/folders/1K8izghJBD59rN21DEldlup5WixYGAu51
 =======
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
->>>>>>> b8c3984bd4033e672797728cd8c234c5d3447678
+        if (other.CompareTag("Player")) b8c3984bd4033e672797728cd8c234c5d3447678
         {
             SceneManager.LoadScene("a01preCorridor");
         }
