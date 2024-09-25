@@ -147,6 +147,10 @@ https://assetstore.unity.com/packages/3d/props/furniture/key-and-lock-193317
 O player após chegar em um determinado local, será automaticamente "teletransportado" ao colidir com um determinado local, que é uma parede preta. 
 Podendo mudar entre fases.
 
+### Trilha sonora
+<p> Na tela de início do jogo, a música utilizada é uma das inspirações para o jogo: Morto da banda O Terno. Já as músicas que tocam durante a gameplay são de autoria de Kauã Vicente dos Santos especificamente para este jogo.</p>
+
 >[!Important]
 >- Vídeo do jogo:
 >- Link do Jogo no drive: https://drive.google.com/drive/folders/1K8izghJBD59rN21DEldlup5WixYGAu51
+
